@@ -881,7 +881,7 @@ button:disabled,
     transition: opacity 1s ease, transform 1s ease;
     /*padding: 4.5em 3em 3em 3em ;*/
     padding: 3em 1em 1em 1em;
-    background: #000000;
+    background: #4a6da7;
     border-radius: 4px;
     cursor: default;
     max-width: 100%;
@@ -901,7 +901,7 @@ button:disabled,
     display: block;
     margin: 0 auto;
     border-radius: 100%;
-    box-shadow: 0 0 0 1.5em #000000;
+    box-shadow: 0 0 0 1.5em #4a6da7;
 }
 
 #main .avatar:before {
