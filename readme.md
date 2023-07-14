@@ -10,13 +10,14 @@ Experienced developer with a passion for PHP and JavaScript, specializing in web
 - Programming Languages: PHP (>13 years), JavaScript (>10 years)
 - Frameworks: 
   - Slim Framework
+  - Svelte/Svelte Kit
 - Libs:
   - Twig
   - Doctrine ORM
   - Laravel Collection
   - Moment.js
+  - FontAwesome
 - Tools:
-  - Svelte/Svelte Kit
   - Nativescripts
   - Electron
 - Databases:
@@ -24,7 +25,6 @@ Experienced developer with a passion for PHP and JavaScript, specializing in web
   - SQLite
 - Storages:
   - Redis/Memcache
-  - S3
 - Version Control: Git
 - DevOps: GitHub CI/CD, Docker
 - Package Management: Composer, NPM
