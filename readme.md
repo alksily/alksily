@@ -34,8 +34,10 @@ Experienced developer with a passion for PHP and JavaScript, specializing in web
 
 - [WebSpace Engine](https://github.com/getwebspace/platform) (Open Source Project) (>5 years)
   - Developed and maintained an open-source website CMF
+- [alksily/ndn](https://github.com/alksily/ndn) (Open Source Lib)
+  - Handling serialized binary data in a Node.js environment
 - [alksily/support](https://github.com/alksily/support) (Open Source Lib)
-  - Simple library, main function is to generate HTML5 forms
+  - PHP library, main function is to generate HTML5 forms
 - [SimpleCart.js](https://github.com/alksily/simplecart)
   - jQuery dependent library for client-side shop carts
 
