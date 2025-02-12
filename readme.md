@@ -13,12 +13,19 @@ Experienced developer with a passion for PHP and JavaScript, specializing in web
   - Svelte/Svelte Kit
 - Libs:
   - Twig
-  - Doctrine ORM
+  - Laravel Eloquent
   - Laravel Collection
+  - Illuminate
   - Moment.js
+  - Knex.js
+  - Lodash
+  - Sharp
   - FontAwesome
+  - monolog
 - Tools:
-  - Nativescripts
+  - phinx
+  - phpunit
+  - fakerphp
   - Electron
 - Databases:
   - MySQL/MariaDB
