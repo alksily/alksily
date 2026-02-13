@@ -2,7 +2,10 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/aleks_ily/)
 
-Experienced developer with a passion for PHP and JavaScript, specializing in web development.
+I am currently pouring my 15+ years of development experience into **Configo** — a modern **CPQ-first CRM SaaS**. 
+
+* **The Mission:** Streamlining complex sales configurations and CRM workflows.
+* **The Tech:** Built entirely on **SvelteKit**, leveraging high-reactivity and modern web standards.
 
 ## Tech Stack & Tools
 
